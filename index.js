@@ -19,7 +19,7 @@ const { sms,downloadMediaMessage } = require('./lib/msg')
 const axios = require('axios')
 const { File } = require('megajs')
 
-const ownerNumber = ['94722336454']
+const ownerNumber = ['94764038550']
 
 //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/session/creds.json')) {
@@ -83,7 +83,7 @@ let up = `🚀 *_DENUWAN-MD Connected Successfully!_* ✅
 *🔹 OWNER:* ${ownerNumber}
 
 
-_Thank you for using_ *👨‍💻DENUWAN-MD💗.*
+_Special thanks Naviya 💗.*
 _We're here to make your experience enjoyable and seamless._
 _If you need any help or have questions, don't hesitate to ask._ 🌝💗
 
